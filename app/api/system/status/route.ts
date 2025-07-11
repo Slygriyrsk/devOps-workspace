@@ -8,7 +8,7 @@ export async function GET() {
     const freeMem = os.freemem()
     const uptime = os.uptime()
 
-    // Calculate CPU usage (simplified)
+    // Calculate CPU usage
     const cpuUsage = Math.random() * 100 // Replace with actual CPU calculation
 
     const stats = {
