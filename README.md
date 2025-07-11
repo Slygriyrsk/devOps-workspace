@@ -585,4 +585,3 @@ For support and questions:
 **Built with ❤️ by DevOps Engineers for DevOps Engineers**
 
 *"Welcome to the Matrix of DevOps"* 🚀
-```
